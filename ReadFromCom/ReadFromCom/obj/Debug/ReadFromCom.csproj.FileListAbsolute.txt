@@ -1,0 +1,6 @@
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\bin\Debug\ReadFromCom.exe.config
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\bin\Debug\ReadFromCom.exe
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\bin\Debug\ReadFromCom.pdb
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\obj\Debug\ReadFromCom.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\obj\Debug\ReadFromCom.exe
+C:\Users\anton.petuhov\source\repos\ReadFromCom\ReadFromCom\obj\Debug\ReadFromCom.pdb

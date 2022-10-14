@@ -1,0 +1,6 @@
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\bin\Debug\UsbCom.exe.config
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\bin\Debug\UsbCom.exe
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\bin\Debug\UsbCom.pdb
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\obj\Debug\UsbCom.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\obj\Debug\UsbCom.exe
+C:\Users\anton.petuhov\source\repos\UsbCom\UsbCom\obj\Debug\UsbCom.pdb
